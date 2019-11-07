@@ -39,6 +39,7 @@
     }
   }
 
+  // 엘리멘트들 사이에 공간주기
   & + & {
     border-top: 1px solid #dee2e6;
   }
