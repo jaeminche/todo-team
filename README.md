@@ -1,5 +1,6 @@
-## TODO APP
+# TEAM & TODO APP
 
+This todo app (will) lets people share and manage tasks. (it's rather a personal one at the moment)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
